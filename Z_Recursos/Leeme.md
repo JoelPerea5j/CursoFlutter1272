@@ -6,5 +6,5 @@
 ![La tarjeta](Dialogo.png)
 
 ## Ejemplo de List Title
-![La tarjeta](List_tilte.png)
+![La tarjeta](List_title.png)
 ![La tarjeta](List_Title_R.png)
