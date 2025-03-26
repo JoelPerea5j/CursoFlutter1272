@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'Mis_Widgets/Mis_Tarjetas.dart';
+//import 'Mis_Widgets/Mis_Tarjetas.dart';
+import 'Mis_Widgets/Dialogo_Acerca_De.dart';
 
 const Color darkBlue = Color(0xFF12202F);
 void main() => runApp(MiTarjeta());
@@ -18,7 +19,8 @@ class MiTarjeta extends StatelessWidget {
           title: Text("Flutter Perea"),
           centerTitle: true,
         ),
-        body: LaTarjeta(),
+        //body: const LaTarjeta(),
+        body: const DialogoAcerca(),
       ),
     );
   }
